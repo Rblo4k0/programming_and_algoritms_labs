@@ -1,26 +1,34 @@
 # programming_and_algoritms_labs
 I`m doing labs here
   
-  
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
 ### Helping
 
 **bold**
