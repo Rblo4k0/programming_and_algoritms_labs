@@ -1,6 +1,7 @@
 # programming_and_algoritms_labs
 I`m doing labs here
   
+  
 
 
 
@@ -19,17 +20,7 @@ I`m doing labs here
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+  
 ### Helping
 
 **bold**
