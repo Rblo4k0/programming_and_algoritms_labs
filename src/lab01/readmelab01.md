@@ -76,7 +76,7 @@ Don't do this!
 
 
 
-![Downloading failed](img/lab01/ex01.png 'Подпись')
-![Downloading failed](img/lab01/ex02.png "Подпись")
-![Downloading failed](Prog_and_algs/img/lab01/ex03.png 'Подпись')
-![Downloading failed](Prog_and_algs/img/lab01/ex04.png "Подпись")
+![Downloading failed](D:\Oleg\MISiS\Labs_misis\Prog_and_algs\img\lab01\ex07.png 'Подпись')
+![Downloading failed](/img/lab01/ex02.png "Подпись")
+![Downloading failed](/Prog_and_algs/img/lab01/ex03.png 'Подпись')
+![Downloading failed](/Prog_and_algs/img/lab01/ex04.png "Подпись")
