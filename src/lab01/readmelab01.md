@@ -8,10 +8,10 @@
 ***boldanditalic***
 
 texttexttexttext  
-перенос
+перенос(два пробела)
 
 без переноса
-безпереноса
+без переноса
 
 > Цитата 
 
@@ -39,8 +39,11 @@ Without blank lines, this might not look right.
 > This is a blockquote
 Don't do this!
 
+
 1. First item
 2. Second item
+
+
 
 - Third item
     - Indented item
@@ -51,11 +54,6 @@ Don't do this!
     * Indented item
     + Indented item
 - Fourth item
-
-
-
-- 1968\. A great year!
-- I think 1969 was second best.
 
 
 * This is the first list item.
