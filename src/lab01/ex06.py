@@ -9,4 +9,4 @@ for _ in range(n):
     if sp[-1] == 'True':
         k += 1
 
-print(f'out: {k}, {n-k}')
+print(f'out: {k} {n-k}')
