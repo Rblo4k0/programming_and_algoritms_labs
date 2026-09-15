@@ -36,7 +36,7 @@
 
 Программа работает корректно, вывод на изображении  
 
-![Downloading failed](/img/lab01/ex06.png 'Пасхалко')  
+![Downloading failed](/img/lab01/ex06.png 'Пасхалко')
 
 ### Ex_07
 
