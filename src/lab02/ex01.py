@@ -25,12 +25,12 @@ def flatten(mat: list[list | tuple]) -> list:
 # print(f'[] -> {min_max([])}')
 # ''')
 
-print(f'''
-[3, 1, 2, 1, 3] -> {unique_sorted([3, 1, 2, 1, 3])}
-[] -> {unique_sorted([])}
-[-1, -1, 0, 2, 2] -> {unique_sorted([-1, -1, 0, 2, 2])}
-[1.0, 1, 2.5, 2.5, 0] -> {unique_sorted([1.0, 1, 2.5, 2.5, 0])}
-''')
+# print(f'''
+# [3, 1, 2, 1, 3] -> {unique_sorted([3, 1, 2, 1, 3])}
+# [] -> {unique_sorted([])}
+# [-1, -1, 0, 2, 2] -> {unique_sorted([-1, -1, 0, 2, 2])}
+# [1.0, 1, 2.5, 2.5, 0] -> {unique_sorted([1.0, 1, 2.5, 2.5, 0])}
+# ''')
 
 # print(f'''
 
