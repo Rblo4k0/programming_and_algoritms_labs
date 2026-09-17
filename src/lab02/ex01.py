@@ -1,14 +1,25 @@
 def min_max(nums: list[float | int]) -> tuple[float | int, float | int]:
 
+    ''' 
+    Вычисляет максимум и минимум списка чисел
+
+    '''
+
     if not nums: raise ValueError ('Ну хоть чет передай')
     return (min(nums), max(nums))
 
 def unique_sorted(nums: list[float | int]) -> list[float | int]:
+    '''
+    Возвращает отсортированный список чисел
 
+    '''
     return sorted(set(nums))
 
 def flatten(mat: list[list | tuple]) -> list:
+    '''
+    Переводит матрицу в список
 
+    '''
     sp = []
     for elem in mat:
         if type(elem) != list and type(elem) != tuple: raise TypeError ('Чет ты попутал')
