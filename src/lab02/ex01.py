@@ -51,4 +51,3 @@ def flatten(mat: list[list | tuple]) -> list:
 # print(f'[[1, 2], "ab"] -> {flatten([[1, 2], "ab"])}')
 # ''')
 
-# ''')
