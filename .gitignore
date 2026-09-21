@@ -1,6 +1,4 @@
 # Виртуальные окружения
-.venv_linux/
-.venv_windows/
 venv/
 .venv/
 
