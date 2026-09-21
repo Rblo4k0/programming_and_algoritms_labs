@@ -5,11 +5,11 @@
 ### Ex_01
 
 Пример работы min_max:  
-![Downloading failed](labs/img/lab02/ex01_min_max.png 'Пасхалко')  
+![Downloading failed](/lab02/ex01_min_max.png 'Пасхалко')  
 Пример работы min_max с ошибкой:  
-![Downloading failed](labs/img/lab02/ex01_min_max_error.png 'Пасхалко')  
+![Downloading failed](/img/lab02/ex01_min_max_error.png 'Пасхалко')  
 Присер работы unique_sorted:  
-![Downloading failed](labs/img/lab02/ex01_unique_sorted.png 'Пасхалко')  
+![Downloading failed](/labs/img/lab02/ex01_unique_sorted.png 'Пасхалко')  
 Пример работы flatten:  
 ![Downloading failed](labs/img/lab02/ex01_flatten.png 'Пасхалко')  
 Пример работы flatten с ошибкой:  
