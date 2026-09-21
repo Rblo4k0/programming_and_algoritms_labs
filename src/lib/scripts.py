@@ -12,6 +12,6 @@ def is_matrix_ok(mat: list[list]) -> bool:
     n, m = len(mat), len(mat[0])
 
     for i in mat:
-        if len[i] != m:
+        if len(i) != m:
             return False
     return True
