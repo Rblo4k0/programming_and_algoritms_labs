@@ -23,13 +23,13 @@
 Пример работы transpose с ошибкой:  
 ![Downloading failed](labs/img/lab02/exB_transponse_error.png 'Пасхалко')  
 Пример работы row_sums:  
-![Downloading failed](/img/lab01/ex02.png 'Пасхалко')  
+![Downloading failed](labs/img/lab02/exB_row_sums.png 'Пасхалко')  
 Пример работы row_sums с ошибкой:  
-![Downloading failed](/img/lab01/ex02.png 'Пасхалко')  
+![Downloading failed](labs/img/lab02/exB_row_sums_error.png 'Пасхалко')  
 Пример работы col_sums:  
-![Downloading failed](/img/lab01/ex02.png 'Пасхалко')
+![Downloading failed](labs/img/lab02/exB_col_sums.png 'Пасхалко')
 Пример работы col_sums с ошибкой:    
-![Downloading failed](/img/lab01/ex02.png 'Пасхалко')  
+![Downloading failed](labs/img/lab02/exB_col_sums_error.png 'Пасхалко')  
 
 ### Ex_C
 
