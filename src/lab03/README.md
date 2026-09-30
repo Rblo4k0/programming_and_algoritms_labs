@@ -15,4 +15,4 @@
 ### text_stats.py
 
 Пример работы text_stats:  
-![Downloading failed](/img/lab02/text_stats.png 'Пасхалко')  
+![Downloading failed](/img/lab03/text_stats.png 'Пасхалко')  
