@@ -2,7 +2,7 @@ import sys
 from pathlib import Path
 
 from src.lab04.io_txt_csv import read_text, write_csv
-from src.lib.text import count_freq, tokenize, top_n
+from src.lib.text import normalize, tokenize, count_freq, top_n
 
 
 def parse_cli_args():
@@ -54,7 +54,7 @@ def main():
 
     for path in input_paths:
         text = read_text(path, encoding=encoding)
-        tokens = [t.casefold() for t in tokenize(text)]
+        tokens = [normalize(t) for t in tokenize(text)]
         all_tokens.extend(tokens)
 
         file_freq = count_freq(tokens)
