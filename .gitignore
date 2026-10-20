@@ -1,15 +1,13 @@
-# Виртуальные окружения
 venv/
 .venv/
 
-# Python кэш
 __pycache__/
 *.pyc
 *.pyo
 
-# Настройки VS Code (опционально)
 .vscode/
 
-# Временные файлы
 *.log
 .DS_Store
+
+data/*
