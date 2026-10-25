@@ -28,7 +28,6 @@ def csv_to_xlsx(csv_path: str, xlsx_path: str) -> None:
     for row in reader:
         ws.append(row)
 
-    # Авто-ширина колонок (не менее 8)
     for col in ws.columns:
         max_len = 0
         letter = col[0].column_letter

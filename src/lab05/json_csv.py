@@ -26,7 +26,6 @@ def json_to_csv(json_path: str, csv_path: str) -> None:
     if not all(isinstance(item, dict) for item in data):
         raise ValueError("Все элементы списка JSON должны быть словарями")
 
-    # Сбор всех уникальных ключей для заголовка
     fieldnames = []
     for element in data:
         for key in element:
