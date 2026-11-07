@@ -10,11 +10,10 @@ pip install -r requirements.txt
   
 ### cli_text.py  
 
-запуск: 
 ```bash
+# запуск
 python -m src.lab06.cli_text cat --input data/samples/people.csv -n
 ```  
-
 ![Downloading failed](/img/lab06/cat_demo.png 'Пасхалко')  
 
 CSV → JSON  
