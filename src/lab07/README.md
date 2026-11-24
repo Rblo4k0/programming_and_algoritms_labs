@@ -31,8 +31,20 @@ python -m src.lab07.bench
 
 ## Скриншоты работы
 
+## Скриншоты работы
+
+**Проверка корректности (`src/lab07/check.py`):**  
+Вывод запуска автоматических тестов (`python -m src.lab07.check`), подтверждающий корректность алгоритмов из `src/lab07/search.py` и `src/lab07/sorting.py`.
 ![Downloading failed](/img/lab07/check.png 'check')
 
+---
+
+**Замеры времени выполнения (`src/lab07/bench.py`):**  
+Вывод итоговой таблицы замеров в консоль (`python -m src.lab07.bench`) со временем работы сортировок, поиска и Two Sum на разных объёмах данных.  
 ![Downloading failed](/img/lab07/bench.png 'bench')
 
+---
+
+**Файл с результатами бенчмарка (`data/lab07/bench.csv`):**  
+Содержимое сгенерированного CSV-файла с таблицей замеров (`task, n, impl, seconds`).
 ![Downloading failed](/img/lab07/bench_csv.png 'bench_csv')
