@@ -31,8 +31,6 @@ python -m src.lab07.bench
 
 ## Скриншоты работы
 
-## Скриншоты работы
-
 **Проверка корректности (`src/lab07/check.py`):**  
 Вывод запуска автоматических тестов (`python -m src.lab07.check`), подтверждающий корректность алгоритмов из `src/lab07/search.py` и `src/lab07/sorting.py`.
 ![Downloading failed](/img/lab07/check.png 'check')
