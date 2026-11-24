@@ -27,4 +27,12 @@ python -m src.lab07.check
 
 # Запуск бенчмарка и сохранение таблицы в data/lab07/bench.csv
 python -m src.lab07.bench
+```
 
+## Скриншоты работы
+
+![Downloading failed](/img/lab07/check.png 'check')
+
+![Downloading failed](/img/lab07/bench.png 'bench')
+
+![Downloading failed](/img/lab07/bench_csv.png 'bench_csv')
